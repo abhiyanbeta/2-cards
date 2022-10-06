@@ -1,4 +1,4 @@
-<div class="card">
+<!-- <div class="card">
     <div class="card-image">
       <figure class="image is-4by3">
         <img [src]="imageUrl" />
@@ -12,6 +12,23 @@
       </div>
       <div class="content">
         {{ content }}
+      </div>
+    </div>
+  </div> -->
+
+
+<!-- Bootsrtrap -->
+  <div class="row row-cols-1 row-cols-md-3 g-4">
+    <div class="col">
+      <div class="card h-100">
+        <img [src]="imageUrl" class="card-img-top" alt="...">
+        <div class="card-body">
+          <h5 class="card-title">{{ title }}</h5>
+          <p class="card-text">{{ content }}</p>
+        </div>
+        <div class="card-footer">
+          <small class="text-muted">@{{ username }}</small>
+        </div>
       </div>
     </div>
   </div>
