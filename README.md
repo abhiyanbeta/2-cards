@@ -8,7 +8,7 @@ View project live: https://2-cards.vercel.app/
 
 ## Screenshot
 
-![Latest posts app screenshot](src/app/assets/screenshot.png)
+![Latest posts app screenshot](src/assets/screenshot.png)
 
 ## Development server
 
