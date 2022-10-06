@@ -15,13 +15,13 @@ export class AppComponent {
     },
     { 
       title: 'Snowy mounthat',
-      imageUrl: 'assets/mountain.jpeg',
+      imageUrl: 'assets/mountain.jpg',
       username: 'mountainlover5',
       content: 'heres a pic of a snowy mountain'
     },
     { 
       title: 'mountain biking',
-      imageUrl: 'assets/biking.jpeg',
+      imageUrl: 'assets/biking.jpg',
       username: 'biker1212',
       content: 'I did some biking today'
     }
