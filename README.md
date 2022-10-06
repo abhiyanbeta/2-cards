@@ -6,6 +6,10 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 View project live: https://2-cards.vercel.app/
 
+## Screenshot
+
+![Latest posts app screenshot](src/app/assets/screenshot.png)
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
