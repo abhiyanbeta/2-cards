@@ -8,22 +8,22 @@ import { Component } from '@angular/core';
 export class AppComponent {
   posts = [
     { 
-      title: 'Neat tree',
+      title: 'Funky tree',
       imageUrl: 'assets/tree.jpg',
-      username: 'nature',
-      content: 'I saw this neat tree today'
+      username: 'naturelover4',
+      content: 'I saw this cool looking tree today during my hike!'
     },
     { 
-      title: 'Snowy mounthat',
+      title: 'Mount everest',
       imageUrl: 'assets/mountain.jpg',
       username: 'mountainlover5',
-      content: 'heres a pic of a snowy mountain'
+      content: 'Descending Mt. Kala Patthar (5644m) to Gorakshep I could take some pictures of the sunset over Mt. Everest (middle), Nuptse and Changtse.'
     },
     { 
-      title: 'mountain biking',
+      title: 'Mountain biking',
       imageUrl: 'assets/biking.jpg',
-      username: 'biker1212',
-      content: 'I did some biking today'
+      username: 'chrishenryphoto',
+      content: 'Mountain biking today in Park City, UT, USA.'
     }
   ];
 }
